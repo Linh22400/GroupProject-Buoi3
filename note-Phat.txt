@@ -1,1 +1,2 @@
 Ghi chu cua Phat
+ Kiem tra lai cac buoc thuc hien.
