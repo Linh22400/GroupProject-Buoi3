@@ -1,2 +1,2 @@
 # GroupProject-Buoi3
-DONG-CHUNG: Noi dung cua A
+DONG-CHUNG: noi dung cua A
