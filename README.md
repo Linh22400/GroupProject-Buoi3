@@ -1,7 +1,6 @@
-# GroupProject-Buoi3
 
-DONG-CHUNG: Noi dung cua B
-DONG-CHUNG: noi dung goc
-
-DONG-CHUNG: noi dung cua A
-
+DAY LA NOI DUNG CUA A
+DAY LA NOI DUNG CUA B
+DAY LA THAY DOI TRUC TIEP TREN MAIN.
+NO, DAY MOI LA THAY DOI GAY XUNG DOT.
+Update for version 1.1
